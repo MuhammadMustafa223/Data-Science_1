@@ -55,6 +55,7 @@ def merge_sort(array):
 
 # Main Execution with Visualization 
 
+
 # Unsorted list
 my_list = [54, 26, 93, 17, 77, 31, 44, 55, 20]
 
