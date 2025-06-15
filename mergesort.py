@@ -50,7 +50,6 @@ def plot_performance():
     plt.ylabel('Execution Time (seconds)')
     plt.grid(True)
     plt.tight_layout()
-    plt.savefig("merge_sort_performance.png")
     plt.show()
 
 if __name__ == "__main__":
